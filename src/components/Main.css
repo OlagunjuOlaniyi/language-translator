@@ -1,0 +1,14 @@
+select {
+    border: none !important;
+color: #fff;
+}
+
+.right__translation textarea, .translated__text {
+    /* background-color: darkgray !important; */
+    color: #fff !important;
+}
+
+.translation__select {
+ background-color: rgb(32, 30, 30);
+ 
+}

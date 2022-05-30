@@ -1,0 +1,14 @@
+
+
+.nav__logo img {
+    width: 80px;
+}
+
+.nav__button button {
+    border-radius: 30px;
+}
+.nav__button .avatar {
+    width: 25px;
+    margin-left: 5px;
+}
+
